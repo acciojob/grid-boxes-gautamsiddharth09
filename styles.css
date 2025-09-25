@@ -28,6 +28,7 @@
 }
 #box-2{
 	grid-area:box-2;
+	grid-column:span 4 / auto;
 }
 
 #box-3{
@@ -36,10 +37,12 @@
 }
 #box-4{
 	grid-area:box-4;
+	grid-column:span 2 / auto;
 	
 }
 #box-5{
 grid-area:box-5;
+	grid-column:span 2 / auto;
 }
 #box-6{
 	grid-area:box-6;
